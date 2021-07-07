@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://myanma.github.io/sitemap.xml
